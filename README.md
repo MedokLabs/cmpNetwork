@@ -32,27 +32,6 @@
 install.bat
 ```
 
-### Option 2: Manual Installation
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/0xStarLabs/StarLabs-CampNetwork.git
-   cd StarLabs-CampNetwork
-   ```
-
-2. **Create virtual environment:**
-   ```bash
-   python -m venv venv
-   ```
-
-3. **Activate virtual environment:**
-   ```bash
-   # Windows
-   venv\Scripts\activate
-   
-   # Linux/Mac
-   source venv/bin/activate
-   ```
-
 4. **Install dependencies:**
    ```bash
    pip install -r requirements.txt
